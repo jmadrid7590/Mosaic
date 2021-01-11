@@ -1,0 +1,112 @@
+.red{
+ background-color:red;   
+}
+
+.orange{
+    background-color:orange; 
+}
+
+.yellow{
+    background-color:yellow; 
+}
+
+.green{
+    background-color:green; 
+}
+
+.blue{
+    background-color:blue; 
+}
+
+.darkRed{
+    background-color:#9e1111; 
+} 
+
+.lightBlue{
+ background-color:#4286f4; 
+} 
+
+.vomitGreen{
+ background-color:#9e9911; 
+} 
+
+.greenGrass{
+ background-color:#459e11; 
+} 
+
+.neonGreen{
+ background-color:#00ff1a; 
+} 
+
+.neonBlue{
+ background-color:#00fff7; 
+} 
+
+.darkBlue{
+  background-color:#033157;
+}
+
+.lightPurple{
+    background-color:#c9c5fa;
+}
+
+.darkPurple{
+   background-color:#282273;
+} 
+
+.neonPink{
+   background-color:#ff00c3;
+} 
+
+.lightPink{
+   background-color:#f2aae1;
+} 
+
+.lightGrey{
+    background-color:#c2c2c2;
+} 
+
+.blueGrey{
+    background-color:#56848f;
+} 
+
+.lightYellow{
+    background-color:#f8ffba;
+}
+
+.brownOrange{
+    background-color:#d19915;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div {
+    width:100px;
+    height:100px;
+    border: 1px solid black;
+    float:left;
+    padding: 1px;
+    text-align:center;
+}
